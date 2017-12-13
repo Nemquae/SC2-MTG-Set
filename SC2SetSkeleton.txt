@@ -1,0 +1,247 @@
+BLANK LARGE MAGIC:THE GATHERING SET DESIGN SKELETON
+A useful guideline to creating your own custom magic set
+This resource is tailored for a Mono colored set, rearrange accordingly for sets with higher multicolored or colorless components.
+Contact Reuben Covington:
+Twitter: @reubencovington
+Email: reubencovington@gmail.com
+Skype: reuben_doombringer
+
+Check out our MTG podcast: Re-Making Magic
+http://remakingmagic.libsyn.com/
+
+//list your mechanics here for quick reference
+Mechanics:
+
+//Use this when making commons, no more than 20% of commons should be red flagged
+//See my NWO primer below for more details
+http://www.mtgsalvation.com/forums/creativity/custom-card-creation/578926-primer-nwo-redflagging
+
+Red Flag Reminders
+- Does it affect other permanents?
+- 4 or more lines of rules text?
+- need to be read twice?
+- Card advantage
+- Multiple card kill
+- Do you create a loop?
+- Needed in numbers?
+- rules issues
+
+//What draft archetypes are each color aiming for?
+Archetypes:
+WU: Khalai Protoss 	(midrange)
+UB: Nerazim Protoss 	(control)
+BR: Dominion Terran 	(midrange)
+RG: Primal Zerg		(aggro)
+GW: Broodmother Zerg 	(control)
+WR: Raynor's Raiders 	(midrange)
+UG: Amon's Hybrid 	(combo)
+BW: UED Terran 		(aggro)
+UR: Tal'darim Protoss	(aggro)
+GB: Kerrigan's Zerg 	(midrange)
+
+Hybrid Mana
+Phyrexian Mana
+Transform
+Shadow
+Absorb
+Hideaway
+Flanking
+Provoke
+Changeling
+Extra Damage
+Structure
+
+//Each color wants to have a certain number of common creatures
+//Below is the RECOMMENDED number of common creatures for each color and CMC slot.
+//Defenders or zero power creatures DO NOT occupy creature slots.
+//Spells that create creature tokens DO occupy creature slots.
+
+Creatures : White (total: 12)
+1cmc : 2 : small, small
+2cmc : 4 : small, small, small, small
+3cmc : 3 : small, small, small
+4cmc : 2 : small/medium, small/medium
+5cmc : 1 : small/medium
+6cmc : 0 :
+
+Creatures : Blue (total: 9)
+1cmc : 1 : small
+2cmc : 2 : small, small
+3cmc : 2 : small, small
+4cmc : 2 : small, small/medium
+5cmc : 2 : small/medium, medium
+6cmc : 0 :
+
+Creatures : Black (total: 10)
+1cmc : 1 : small
+2cmc : 2 : smalle, small
+3cmc : 3 : small, small, medium
+4cmc : 2 : medium, medium
+5cmc : 1 : medium
+6cmc : 1 : medium
+
+Creatures : Red (total: 10)
+1cmc : 1 : small
+2cmc : 2 : small, small
+3cmc : 3 : small, small, medium
+4cmc : 2 : small, medium
+5cmc : 1 : medium
+6cmc : 1 : medium/large
+
+Creatures : Green (total: 11)
+1cmc : 1 : small
+2cmc : 2 : small, small
+3cmc : 3 : small, medium, medium
+4cmc : 2 : medium, medium
+5cmc : 1 : medium/large
+6cmc : 1 : large
+7cmc : 1 : large
+
+//Size reference
+Small: 0/1 -> 2/3
+Medium: 3/3 -> 4/5
+Large: 5/5+
+
+//All common cards of a color should fall within this range
+Aproximate Converted Mana distribution of each color
+1 : 3-4 : 
+2 : 5-6 : 
+3 : 4-5 : 
+4 : 3-4 : 
+5 : 1-2 : 
+6+: 1-2 : 
+
+Total of 101 cards at common for a large set
+18 cards of each color
+5 artifacts
+6 lands
+Adjust these numbers as nessesary for Multicolored sets etc.
+
+//White Commons
+CW01 Creature small: 		Concussed Marauder / Fast Hellion
+CW02 Creature small: 		Protoss Sentry / Terran Marine
+CW03 Creature small: 		Resocialized Ghost
+CW04 Creature small: 		Scouting SCV
+CW05 Creature small:		Terran Reaper* / Terran SCV / Terran Supply Depot
+CW06 Creature small: 		Unphased Adept
+CW07 Creature small:		Purifying Energizer* / Terran Firebat
+CW08 Creature small: 		Tight Wall
+CW09 Creature small: 		Aiur Refugee
+CW10 Creature small: 		Dominion Medic
+CW11 Creature medium: 	Locked Siege Tank / Spotter Viking* / Terran Marauder*
+CW12 Creature medium: 	Protoss Dragoon* / 
+CW13 Enchantment Aura: 	Personal Healer
+CW14 Enchantment AuraInstant:	Tactical Jump / Psychic Feedback* / Ventral Sacs*
+CW15 Instant: 			Build Point Defense Drone
+CW16 Instant: 			Bunker Rush
+CW17 Instant: 			Hold the Fort / Kiting Maneuver
+CW18 SorceryInstant: 		Ignite Afterburners	
+
+//Blue Commons
+CU01 Creature small: 		Dark Zealot
+CU02 Creature small: 		Hidden Probe / Hybrid Flanker
+CU03 Creature small: 		Protoss Adept
+CU04 Creature small: 		Protoss Probe
+CU05 Creature small: 		Protoss Pylon
+CU06 Creature small:		Protoss Sentry / Hybrid Stowaway
+CU07 Creature small: 		Protoss Zealot
+CU08 Creature medium:  	Protoss Stalker* / Hybrid Shielder
+CU09 Creature medium: 	Protoss Dragoon* / Hybrid Blitzer
+CU10 Enchantment Aura:	Cloaking Field / 
+CU11 Instant:			EMP Round
+CU12 Instant: 			Outflank / 
+CU13 Instant:			Protoss Hallucination
+CU14 Instant: 			Advanced Scouting
+CU15 Instant: 			Psychic Feedback* /
+CU16 Sorcery: 			Spawn Changeling
+CU17 SorceryEnchantment: 	Protoss Force Field
+CU18 Sorcery: 			Hidden Tech
+
+//Black Commons
+CB01 Creature small: 		Brood Zergling / Concussed Marauder
+CB02 Creature small:		Expansion Drone / Fast Hellion
+CB03 Creature small:		Repairing SCV
+CB04 Creature small: 		Terran Marine
+CB05 Creature small:		Terran Reaper* / Terran SCV / Terran Supply Depot
+CB06 Creature small:		Two-Rax Marine
+CR07 Creature medium: 	Locked Siege Tank / Spotter Viking* / Terran Marauder* / Black-Ops Ghost
+CB08 Creature medium:		Protoss Stalker* / Zerg Hydralisk
+CB09 Creature mediumsmall:	Hidden Probe / Zerg Nydus Worm* / Tal'Darim Adept
+CB10 Creature medium: 	Zagara's Aberration
+CB11 Enchantment:		Cloaking Field / Ventral Sacs* / Zerg Creep
+CB12 Instant:			Hold the Fort / Timing Attack
+CB13 Instant:  			Seeker Missile / 
+CB14 Instant: 			Fungal Growth
+CB15 Sorcery: 			Steady Targeting
+CB16 Sorcery: 			Spawn Infested Terran / 
+CB17 Sorcery: 			Contaminate
+CR18 Sorcery: 			Caustic Spray
+
+//Red Commons
+CR01 Creature small:		Proxy Probe
+CR02 Creature small:		Tal'darim Zealot
+CR03 Creature small:		Terran Reaper* / Purifying Energizer*
+CR04 Creature small: 		Hybrid Provoker
+CR05 Creature small:		Hybrid Menacer
+CR06 Creature small:		Hybrid Spewer
+CR07 Creature medium: 	Spotter Viking* / Terran Marauder* / 
+CR08 Creature medium:		Hybrid Reaver / Tal'Darim Adept
+CR09 Creature mediumsmall:	Hybrid Destroyer 
+CR10 Creature large: 		Hybrid Behemoth
+CR11 Enchantment:		Flanking Maneuver
+CR12 Instant:			Build Auto-Turret
+CR13 Instant:			Lift Off
+CR14 Instant:  			Seeker Missile / Tactical Jump
+CR15 Instant: 			Stimpack
+CR16 InstantSorcery: 		Zergling Rush
+CR17 Sorcery: 			Ambush Snipe / 
+CR18 Sorcery: 			Primal Drones
+
+//Green Commons
+CG01 Creature small:		Brood Zergling / Expansion Drone
+CG02 Creature small: 		Green Marine
+CG03 Creature small: 		Zerg Drone
+CG04 Creature small:		Zerg Overlord
+CG05 Creature small: 		Zerg Roach
+CG06 Creature mediumsmall:		Zerg Zergling
+CG07 Creature mediumsmall: 	Hybrid Stowaway / 
+CG08 Creature medium:		Zerg Hydralisk / Hybrid Shielder
+CG09 Creature largesmall:	Hybrid Flanker / Hybrid Blitzer
+CG10 Creature large:		Brood Ultralisk
+CG11 Creature large: 		Zerg Nydus Worm* / 
+CG12 Enchantment Aura:	Parasitic Bomb
+CG13 Enchantment Aura:	Ventral Sacs* / Zerg Creep
+CG14 Instant: 			Blinding Cloud
+CG15 Instant: 			Abduct
+CG16 Sorcery:			Ambush Snipe / 
+CG17 Sorcery: 			Spawn Changeling
+CG18 Sorcery: 			Spawn Infested Terran / 
+
+//Common Artifacts
+CA01 Artifact Creature:	Terran Mule
+CA02 Artifact Creature:	Starcraft Infrastructure
+CA03 Artifact:			Destructible Tower
+CA04 Artifact:			Xel'Naga Watchtower
+CA05 Artifact:			Xel'Naga Artifact
+
+//Common Lands
+CL01 Land:				Zerg Outpost
+CL02 Land:				Terran Outpost
+CL03 Land:				Hybrid Outpost
+CL04 Land:				Protoss Outpost
+CL05 Land:				Bronze Mineral Field
+CL06 Land: 			Terrazine Geyser
+
+
+101 commons, 80 uncommons, 53 rares, 15 mythic rares
+
+Pirate Ninja
+W 15.95
+U 16.75
+G 18.75
+
+My husband and I are the founders of the Ledge Foundation.  It's both an open gaming foundation for organized play and a social enterprise for game-based learning.  We both have strong technical backgrounds, with degrees in mathematics and science, and over 15 years of combined work experience in highly-technical fields.  Our interests are wider, however, and we feel that we can contribute creatively to the community as well.  Art, game design, and film are popular topics of discussion in our house, we'd enjoy learning from or continuing these discussions with others.  If members of the CoCoon community are eager to play games, we'll probably organize some in our free time.
+
+I've been studying genetics and evolutionary biology for over a decade.  I believe that in our lifetimes we will realize the potential of personalized medicine by applying statistical learning and other big data analytic techniques to genetic and epigenetic data that's already out there.  Half the battle will be teaching others about the unique challenges of genetic and evolutionary research, and so I'm exciting to apply a more popular science approach through game-based learning, engagement, and retention.
+
+My husband has been working with the OpenCog Foundation for many years now, and so his primary experience with entrepreneurship has been through open source initiatives.  Before that he worked as the Technical Director at XMG Studio, a mobile gaming startup in Toronto.  His dream is to use the artificial general intelligence from projects such as OpenCog to create meaningful, self-aware games unlike anything in existence today.  Of course, if an open source AGI framework is completed in the near future, then there may be other more meaningful endeavours to apply it to, but that's another story...
