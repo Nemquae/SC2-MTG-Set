@@ -29,27 +29,59 @@ Red Flag Reminders
 //What draft archetypes are each color aiming for?
 Archetypes:
 WU: Khalai Protoss 	(midrange)
+a
+
 UB: Nerazim Protoss 	(control)
+Shadow/Shroud theme
+
 BR: Dominion Terran 	(midrange)
+a
+
 RG: Primal Zerg		(aggro)
+a
+
 GW: Broodmother Zerg 	(control)
+Healing theme
+
 WR: Raynor's Raiders 	(midrange)
+a
+
 UG: Amon's Hybrid 	(combo)
+a
+
 BW: UED Terran 		(aggro)
+Graveyard theme?
+Easy Red Splash
+
 UR: Tal'darim Protoss	(aggro)
+a
+
 GB: Kerrigan's Zerg 	(midrange)
+a
+
 
 Hybrid Mana
 Phyrexian Mana
 Transform
-Shadow
-Absorb
-Hideaway
-Flanking
-Provoke
+Shadow		(Black/Blue?)
+Hideaway		(Changed to any permanent type)
+Flanking		(White, Black/Red, Blue/Green)
+Provoke		(Red, White/Green)
 Changeling
 Extra Damage
-Structure
+Shields		(Blue, White)
++Shroud
+-Hexproof
+-Deathtouch
+-Lifelink?
+
+Spectre actually be a Spectre.
+Tapped and shadow creatures can block.
+Copy for modal cards: • 
+Check for when walls are changelings
+remember 4-ability flip walkers
+
+105+4 commons, 100+2 uncommons, 77+2 rares, 18+2 mythic rares
 
 //Each color wants to have a certain number of common creatures
 //Below is the RECOMMENDED number of common creatures for each color and CMC slot.
@@ -136,6 +168,7 @@ CW15 Instant: 			Build Point Defense Drone
 CW16 Instant: 			Bunker Rush
 CW17 Instant: 			Hold the Fort / Kiting Maneuver
 CW18 SorceryInstant: 		Ignite Afterburners	
+CW19
 
 //Blue Commons
 CU01 Creature small: 		Dark Zealot
@@ -156,6 +189,7 @@ CU15 Instant: 			Psychic Feedback* /
 CU16 Sorcery: 			Spawn Changeling
 CU17 SorceryEnchantment: 	Protoss Force Field
 CU18 Sorcery: 			Hidden Tech
+CU19
 
 //Black Commons
 CB01 Creature small: 		Brood Zergling / Concussed Marauder
@@ -175,7 +209,8 @@ CB14 Instant: 			Fungal Growth
 CB15 Sorcery: 			Steady Targeting
 CB16 Sorcery: 			Spawn Infested Terran / 
 CB17 Sorcery: 			Contaminate
-CR18 Sorcery: 			Caustic Spray
+CB18 Sorcery: 			Caustic Spray
+CB19
 
 //Red Commons
 CR01 Creature small:		Proxy Probe
@@ -196,6 +231,7 @@ CR15 Instant: 			Stimpack
 CR16 InstantSorcery: 		Zergling Rush
 CR17 Sorcery: 			Ambush Snipe / 
 CR18 Sorcery: 			Primal Drones
+CR19
 
 //Green Commons
 CG01 Creature small:		Brood Zergling / Expansion Drone
@@ -216,6 +252,7 @@ CG15 Instant: 			Abduct
 CG16 Sorcery:			Ambush Snipe / 
 CG17 Sorcery: 			Spawn Changeling
 CG18 Sorcery: 			Spawn Infested Terran / 
+CG19
 
 //Common Artifacts
 CA01 Artifact Creature:	Terran Mule
@@ -233,7 +270,7 @@ CL05 Land:				Bronze Mineral Field
 CL06 Land: 			Terrazine Geyser
 
 
-101 commons, 80 uncommons, 53 rares, 15 mythic rares
+
 
 Pirate Ninja
 W 15.95
