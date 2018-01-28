@@ -65,7 +65,7 @@ Phyrexian Mana
 Transform
 Shadow		(Black/Blue?)
 Hideaway		(Changed to any permanent type)
-Flanking		(White, Black/Red, Blue/Green)
+Flanking		(White/Black?, Black/Red, Blue/Green)
 Provoke		(Red, White/Green)
 Changeling
 Extra Damage
@@ -73,15 +73,21 @@ Shields		(Blue, White)
 +Shroud
 -Hexproof
 -Deathtouch
--Lifelink?
+-Lifelink
 
 Spectre actually be a Spectre.
 Tapped and shadow creatures can block.
 Copy for modal cards: • 
 Check for when walls are changelings
 remember 4-ability flip walkers
+give spectres discard
+remove tapping of depletion lands
+world lands
 
-105+4 commons, 100+2 uncommons, 77+2 rares, 18+2 mythic rares
+105+4 commons, 100+2 uncommons, (64-77)+2 rares, (16-18)+2 mythic rares
+
+105 / 100 / 80 / 20
+101 / 80 / 68 / 8
 
 //Each color wants to have a certain number of common creatures
 //Below is the RECOMMENDED number of common creatures for each color and CMC slot.
